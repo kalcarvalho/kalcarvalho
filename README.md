@@ -1,4 +1,4 @@
-### Kal-El Carvalho (Personal Profile)
+### Kal-El Carvalho
 
 <div>
   <a href="https://github.com/kalcarvalho">
