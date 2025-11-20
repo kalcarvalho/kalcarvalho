@@ -50,7 +50,6 @@
 - **Legacy system maintenance & modernization** (VB6, Pascal, Delphi)
 - **Full-stack web development** using Laravel, React, Vue.js, and Symfony
 - **Containerization with Docker** and studying **DevOps & Kubernetes**
-
 ---
 
 ### 🔧 Technologies I Master
