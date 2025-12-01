@@ -4,20 +4,20 @@
   <h1>👋 Hi! I'm Kal-El Carvalho</h1>
   <p><strong>Senior Full Stack Developer | 20+ Years of Experience | Legacy & Modern Systems</strong></p>
 
-  <img src="https://komarev.com/ghpvc/?username=kalcarvalho&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kalcarvalho&label=Profile%20Views&color=0e75b6&style=flat&exclude_me=true" alt="Profile views" />
 
   <br/><br/>
 
   <!-- GitHub Stats -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalcarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalcarvalho&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalcarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalcarvalho&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
   </div>
 
   <br/>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalcarvalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak Stats - mostra dias consecutivos e máximo de commits -->
+  <img src="https://streak-stats.demolab.com/?user=kalcarvalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -26,17 +26,17 @@
 ## 🌍 Languages / Sprachen / Idiomas
 
 <p>
-  <a href="#english"><img src="https://flagcdn.com/us.svg" width="30" alt="English"></a> &nbsp;
+  <a href="#english"><img src="https://flagcdn.com/gb.svg" width="30" alt="English"></a> &nbsp;
   <a href="#deutsch"><img src="https://flagcdn.com/de.svg" width="30" alt="Deutsch"></a> &nbsp;
   <a href="#português"><img src="https://flagcdn.com/br.svg" width="30" alt="Português"></a>
 </p>
 
 ---
 
-## <a name="english"></a>🇺🇸 English
+## <a name="english"></a>🇬🇧 English
 
 ### 🎓 Education & Experience
-- **Bachelor’s Degree in Systems Analysis and Development**
+- **Bachelor's Degree in Systems Analysis and Development**
 - **Over 20 years of professional software development**
 - Extensive background in **enterprise systems, legacy platforms, and modern full-stack architectures**
 
@@ -50,6 +50,7 @@
 - **Legacy system maintenance & modernization** (VB6, Pascal, Delphi)
 - **Full-stack web development** using Laravel, React, Vue.js, and Symfony
 - **Containerization with Docker** and studying **DevOps & Kubernetes**
+
 ---
 
 ### 🔧 Technologies I Master
